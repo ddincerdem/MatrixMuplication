@@ -1,2 +1,2 @@
-# MatrixMuplicatio
+# MatrixMuplication
 C Code Matrix Multiplication
